@@ -52,7 +52,58 @@ getgenv().accountConfig = {
         },
         ["CHARACTER"] = 2,
     },
-    
+    ["LoganPixelHyper"] = {
+        ["SERVER_HOLD_USER"] = 'Asher_Thunder13',
+        ["WHITELIST_USERS"] = {
+            'Drag0nPixelated_YT',
+            'CarterCyberPower2002',
+        },
+        ["MODE"] = "INV",
+        ["ACP_TARGET"] = 'LoganPixelHyper',
+        ["INV_TARGETS"] = {
+            'GigaLavaKnight',
+        },
+        ["CHARACTER"] = 1,
+    },
+    ["GigaLavaKnight"] = {
+        ["SERVER_HOLD_USER"] = 'Asher_Thunder13',
+        ["WHITELIST_USERS"] = {
+            'Drag0nPixelated_YT',
+            'CarterCyberPower2002',
+        },
+        ["MODE"] = "ACP",
+        ["ACP_TARGET"] = 'LoganPixelHyper',
+        ["INV_TARGETS"] = {
+            'GigaLavaKnight',
+        },
+        ["CHARACTER"] = 2,
+    },
+    ["Drag0nPixelated_YT"] = {
+        ["SERVER_HOLD_USER"] = 'Asher_Thunder13',
+        ["WHITELIST_USERS"] = {
+            'LoganPixelHyper',
+            'GigaLavaKnight',
+        },
+        ["MODE"] = "INV",
+        ["ACP_TARGET"] = 'Drag0nPixelated_YT',
+        ["INV_TARGETS"] = {
+            'CarterCyberPower2002',
+        },
+        ["CHARACTER"] = 1,
+    },
+    ["Drag0nPixelated_YT"] = {
+        ["SERVER_HOLD_USER"] = 'Asher_Thunder13',
+        ["WHITELIST_USERS"] = {
+            'LoganPixelHyper',
+            'GigaLavaKnight',
+        },
+        ["MODE"] = "ACP",
+        ["ACP_TARGET"] = 'Drag0nPixelated_YT',
+        ["INV_TARGETS"] = {
+            'CarterCyberPower2002',
+        },
+        ["CHARACTER"] = 2,
+    },
 
     -- May 2
     

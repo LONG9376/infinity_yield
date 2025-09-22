@@ -91,7 +91,7 @@ getgenv().accountConfig = {
         },
         ["CHARACTER"] = 1,
     },
-    ["Drag0nPixelated_YT"] = {
+    ["CarterCyberPower2002"] = {
         ["SERVER_HOLD_USER"] = 'Asher_Thunder13',
         ["WHITELIST_USERS"] = {
             'LoganPixelHyper',

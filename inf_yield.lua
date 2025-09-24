@@ -203,7 +203,7 @@ getgenv().accountConfig = {
             'BladeGigaZap2024',
             'Alpha_Orbit95',
         },
-        ["MODE"] = "INV",
+        ["MODE"] = "ACP",
         ["ACP_TARGET"] = 'XxDanc3rFlickxXYT',
         ["INV_TARGETS"] = {
             'N0raSpark13',

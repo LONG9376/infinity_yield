@@ -1,10 +1,10 @@
 getgenv().accountConfig = {
     -- May 1
     ["Jax0nNe0nPixel"] = {
-        ["SERVER_HOLD_USER"] = 'Xx_DanielGlitchArr0w',
+        ["SERVER_HOLD_USER"] = 'ZaydenDrift2020YT',
         ["WHITELIST_USERS"] = {
-            'Xx_AmeliaHeroBlizzar',
-            'Ril3yDragonWraith',
+            'XxOliverGh0stQueenxX',
+            'SkyHero2005YT',
         },
         ["MODE"] = "INV",
         ["ACP_TARGET"] = 'Jax0nNe0nPixel',
@@ -14,10 +14,10 @@ getgenv().accountConfig = {
         ["CHARACTER"] = 1,
     },
     ["XxSt0rm_FuryxX2014"] = {
-        ["SERVER_HOLD_USER"] = 'Xx_DanielGlitchArr0w',
+        ["SERVER_HOLD_USER"] = 'ZaydenDrift2020YT',
         ["WHITELIST_USERS"] = {
-            'Xx_AmeliaHeroBlizzar',
-            'Ril3yDragonWraith',
+            'XxOliverGh0stQueenxX',
+            'SkyHero2005YT',
         },
         ["MODE"] = "ACP",
         ["ACP_TARGET"] = 'Jax0nNe0nPixel',
@@ -26,29 +26,29 @@ getgenv().accountConfig = {
         },
         ["CHARACTER"] = 2,
     },
-    ["Xx_AmeliaHeroBlizzar"] = {
-        ["SERVER_HOLD_USER"] = 'Xx_DanielGlitchArr0w',
+    ["XxOliverGh0stQueenxX"] = {
+        ["SERVER_HOLD_USER"] = 'ZaydenDrift2020YT',
         ["WHITELIST_USERS"] = {
             'Jax0nNe0nPixel',
             'XxSt0rm_FuryxX2014',
         },
         ["MODE"] = "INV",
-        ["ACP_TARGET"] = 'Xx_AmeliaHeroBlizzar',
+        ["ACP_TARGET"] = 'XxOliverGh0stQueenxX',
         ["INV_TARGETS"] = {
-            'Ril3yDragonWraith',
+            'SkyHero2005YT',
         },
         ["CHARACTER"] = 1,
     },
-    ["Ril3yDragonWraith"] = {
-        ["SERVER_HOLD_USER"] = 'Xx_DanielGlitchArr0w',
+    ["SkyHero2005YT"] = {
+        ["SERVER_HOLD_USER"] = 'ZaydenDrift2020YT',
         ["WHITELIST_USERS"] = {
             'Jax0nNe0nPixel',
             'XxSt0rm_FuryxX2014',
         },
         ["MODE"] = "ACP",
-        ["ACP_TARGET"] = 'Xx_AmeliaHeroBlizzar',
+        ["ACP_TARGET"] = 'XxOliverGh0stQueenxX',
         ["INV_TARGETS"] = {
-            'Ril3yDragonWraith',
+            'SkyHero2005YT',
         },
         ["CHARACTER"] = 2,
     },

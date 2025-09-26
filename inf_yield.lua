@@ -55,7 +55,7 @@ getgenv().accountConfig = {
     ["LoganPixelHyper"] = {
         ["SERVER_HOLD_USER"] = 'Asher_Thunder13',
         ["WHITELIST_USERS"] = {
-            'Drag0nPixelated_YT',
+            'XxToxicGhostxX47',
             'CarterCyberPower2002',
         },
         ["MODE"] = "INV",
@@ -68,7 +68,7 @@ getgenv().accountConfig = {
     ["GigaLavaKnight"] = {
         ["SERVER_HOLD_USER"] = 'Asher_Thunder13',
         ["WHITELIST_USERS"] = {
-            'Drag0nPixelated_YT',
+            'XxToxicGhostxX47',
             'CarterCyberPower2002',
         },
         ["MODE"] = "ACP",
@@ -78,14 +78,14 @@ getgenv().accountConfig = {
         },
         ["CHARACTER"] = 2,
     },
-    ["Drag0nPixelated_YT"] = {
+    ["XxToxicGhostxX47"] = {
         ["SERVER_HOLD_USER"] = 'Asher_Thunder13',
         ["WHITELIST_USERS"] = {
             'LoganPixelHyper',
             'GigaLavaKnight',
         },
         ["MODE"] = "INV",
-        ["ACP_TARGET"] = 'Drag0nPixelated_YT',
+        ["ACP_TARGET"] = 'XxToxicGhostxX47',
         ["INV_TARGETS"] = {
             'CarterCyberPower2002',
         },
@@ -98,7 +98,7 @@ getgenv().accountConfig = {
             'GigaLavaKnight',
         },
         ["MODE"] = "ACP",
-        ["ACP_TARGET"] = 'Drag0nPixelated_YT',
+        ["ACP_TARGET"] = 'XxToxicGhostxX47',
         ["INV_TARGETS"] = {
             'CarterCyberPower2002',
         },

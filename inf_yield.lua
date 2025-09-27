@@ -218,7 +218,7 @@ if game.PlaceId == 18637069183 then
     spawn(function()
         while wait(1) do
             pcall(function()
-                if game:GetService("Players").LocalPlayer.PlayerGui.Menu.Main.Container.Topbar.GlobalMM.Muted.Visible then
+                if not game:GetService("Players").LocalPlayer.PlayerGui.Menu.Main.Container.Topbar.GlobalMM.Muted.Visible then
                     getconnections(game:GetService("Players").LocalPlayer.PlayerGui.Menu.Main.Container.Topbar.GlobalMM.MouseButton1Click)[1].Function()
                 end
             end)

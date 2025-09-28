@@ -4,7 +4,7 @@ getgenv().accountConfig = {
         ["SERVER_HOLD_USER"] = 'ZaydenDrift2020YT',
         ["WHITELIST_USERS"] = {
             'XxOliverGh0stQueenxX',
-            'SkyHero2005YT',
+            'Rav3nSonic2023',
         },
         ["MODE"] = "INV",
         ["ACP_TARGET"] = 'Jax0nNe0nPixel',
@@ -17,7 +17,7 @@ getgenv().accountConfig = {
         ["SERVER_HOLD_USER"] = 'ZaydenDrift2020YT',
         ["WHITELIST_USERS"] = {
             'XxOliverGh0stQueenxX',
-            'SkyHero2005YT',
+            'Rav3nSonic2023',
         },
         ["MODE"] = "ACP",
         ["ACP_TARGET"] = 'Jax0nNe0nPixel',
@@ -35,7 +35,7 @@ getgenv().accountConfig = {
         ["MODE"] = "INV",
         ["ACP_TARGET"] = 'XxOliverGh0stQueenxX',
         ["INV_TARGETS"] = {
-            'SkyHero2005YT',
+            'Rav3nSonic2023',
         },
         ["CHARACTER"] = 1,
     },
